@@ -6,8 +6,8 @@
 }  
 body
 {
-        background-image: url("img_tree.gif"), url("paper.gif");
-        background-color: #f1f3f4;
+        background-image: url(ro.jpg),
+        height: 100vh;
 	background-size: cover;
 	bacground-position: center;
 	box-sizing: border-box;
