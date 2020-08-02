@@ -1,0 +1,23 @@
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}  
+body
+{
+	background-image: url(technologies.jpg);
+	bacground-position: center;
+	box-sizing: border-box;
+	font-family: sans-serif;
+ }
+ .menu-bar
+ {
+ 	color: orange;
+ }
+ @media only screen and (max-width: 500px)
+{
+	.menu-bar
+	{
+		color: blue;
+	}
+}
