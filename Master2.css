@@ -5,10 +5,26 @@
 }  
 body
 {
-	background-image: url(robot.jpg);
-	background-size: cover;
+	background-image: url(roo.jpg);
 	bacground-position: center;
 	box-sizing: border-box;
 	font-family: sans-serif;
 
  }
+ .menu-bar
+ {
+ 	color: orange;
+ }
+ @media only screen and (max-width: 980px)
+{
+	.body 
+	{
+		height: 118px;
+		background-image: url(ro.jpg);
+		background-size: cover;
+		border-bottom: 0;
+	}
+.menu-bar
+{
+	color: orange;
+	}
