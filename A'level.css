@@ -6,8 +6,6 @@
 body
 {
 	background-image: url(Apagie.jpg);
+	background-size: cover;
 	bacground-position: center;
-	box-sizing: border-box;
-	font-family: sans-serif;
-
  }
