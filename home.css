@@ -94,6 +94,7 @@ body
 {
 	.body
 	{
+		position: center;
 		width: 50%;
 		height: 100px
 	}
